@@ -71,6 +71,9 @@ import FocusInput from './hooks/useRefHook/FocusInput';
 import ClassTimer from './hooks/useRefHook/ClassTimer';
 import UseRefHookTimer from './hooks/useRefHook/UseRefHookTimer';
 import DocTitleOne from './hooks/customHooks/DocTitleOne';
+import DocTitleTwo from './hooks/customHooks/DocTitleTwo';
+import CustomCounterOne from './hooks/customHooks/CustomCounterOne';
+import CustomCounterTwo from './hooks/customHooks/CustomCounterTwo';
 
 
 
@@ -293,7 +296,10 @@ function App() {
       {/* <UseRefHookTimer/> */}
 
      {/* Now will start work on custom Hook */}
-     <DocTitleOne/>
+     {/* <DocTitleOne/> */}
+     {/* <DocTitleTwo/> */}
+     {/* <CustomCounterOne/> */}
+     {/* <CustomCounterTwo/> */}
 
 
 
