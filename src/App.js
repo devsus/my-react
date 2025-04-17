@@ -74,6 +74,7 @@ import DocTitleOne from './hooks/customHooks/DocTitleOne';
 import DocTitleTwo from './hooks/customHooks/DocTitleTwo';
 import CustomCounterOne from './hooks/customHooks/CustomCounterOne';
 import CustomCounterTwo from './hooks/customHooks/CustomCounterTwo';
+import UserForm from './hooks/customHooks/UserForm';
 
 
 
@@ -300,6 +301,7 @@ function App() {
      {/* <DocTitleTwo/> */}
      {/* <CustomCounterOne/> */}
      {/* <CustomCounterTwo/> */}
+     <UserForm/>
 
 
 
